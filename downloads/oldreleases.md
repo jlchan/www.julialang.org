@@ -5,9 +5,10 @@
 # Older Unmaintained Releases
 
 Old releases are available should you need to use them to run Julia
-code writen for those releases. Note that these are not actively developed
+code written for those releases. Note that these are not actively developed
 nor maintained anymore.
 
+@@row @@col-12
 ~~~
 <table class="downloads table table-hover table-bordered">
   <thead>
@@ -7005,4 +7006,5 @@ nor maintained anymore.
   </tbody>
 </table>
 ~~~
+@@ @@
 
