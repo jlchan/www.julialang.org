@@ -94,6 +94,9 @@ If you know of other classes using Julia for teaching, please consider [updating
     * [CS51400](https://www.cs.purdue.edu/homes/dgleich/cs514-2016/), Numerical Analysis (Prof. [David Gleich](https://www.cs.purdue.edu/homes/dgleich/)), Spring 2016
 * Rice University
     * [CEVE 543](https://jdossgollin.github.io/environmental-data-science/), Environmental Data Science (Prof. [James Doss-Gollin](https://jdossgollin.github.io/)), Spring semesters starting in 2022
+    * [CAAM 542](https://courses.rice.edu/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202020&p_crn=23829), Discontinuous Galerkin Methods (with Prof. [Jesse Chan](jlchan.github.io/)). 
+    * [CAAM 553](https://courses.rice.edu/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202210&p_crn=12447), Advanced Numerical Analysis I (with Prof. [Jesse Chan](jlchan.github.io/)).
+    * [CAAM 419/519](https://courses.rice.edu/courses/!SWKSCAT.cat?p_action=CATALIST&p_acyr_code=2022&p_crse_numb=419&p_subj=CAAM), Computational Science I (with Prof. [Jesse Chan](jlchan.github.io/)).
 * Royal Military Academy (Brussels)
     * ES123, Computer Algorithms and Programming Project (Prof. [Ben Lauwens](https://github.com/BenLauwens)), Spring 2018
     * ES313, Mathematical modelling and Computer Simulation (Prof. [Ben Lauwens](https://github.com/BenLauwens)), Fall 2018
